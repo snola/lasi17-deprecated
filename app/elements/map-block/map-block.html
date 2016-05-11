@@ -1,0 +1,90 @@
+<dom-module id="map-block">
+    <template>
+        <style>
+            :host {
+                display: block;
+                padding: 100px 0;
+                position: relative;
+                overflow: hidden;
+                min-height: 300px;
+            }
+
+            h4 {
+                font-size: 32px;
+            }
+
+            .location-card {
+                min-width: 400px;
+            }
+
+            .bottom-link {
+                color: inherit;
+            }
+
+            @media (min-width: 768px) {
+                .card-container {
+                    padding: 0;
+                }
+                .card-container h5 {
+                    margin-top: 0;
+                }
+            }
+            .bottom-link {
+                color: inherit;
+            }
+        </style>
+        <google-map class="fit" zoom="15" latitude="43.272124" longitude="-2.9351029" styles="[[options]]" disable-zoom disable-default-ui>
+            <google-map-marker latitude="40.9603982" longitude="-5.6706833"></google-map-marker>
+        </google-map>
+        <div class="container card-container relative layout horizontal center-center">
+            <div class="flex-3 hidden-xs"></div>
+            <paper-card class="flex-2">
+                <div class="paper-card-container location-card">
+                    <div class="card-content">
+                        <div class="title">
+                            <h4>Where?</h4>
+                        </div>
+                        <p>Faculty of Engineering at the University of Deusto</br>Avda. Universidades 24, 48007 Bilbao, Spain</p>
+                    </div>
+                    <div class="card-actions">
+                        <a class="bottom-link" href="https://www.google.es/maps/place/Universidad+de+Deusto/@43.2712491,-2.9407463,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e50207f52c445:0x6ea1bd3e8bae3141!8m2!3d43.2712452!4d-2.9385576" target="_blank">
+                            <paper-button on-tap="readMore">More info</paper-button>
+                        </a>
+                    </div>
+                </div>
+            </paper-card>
+            <div class="flex hidden-xs"></div>
+    </template>
+</dom-module>
+
+<script>
+    Polymer({
+        is: 'map-block',
+        properties: {
+            options: String
+        },
+        attached: function() {
+            this.options = [{
+                stylers: [{
+                    'lightness': 40
+                }, {
+                    'visibility': 'on'
+                }, {
+                    'gamma': 0.9
+                }, {
+                    'weight': 0.4
+                }]
+            }, {
+                'elementType': 'labels',
+                'stylers': [{
+                    'visibility': 'on'
+                }]
+            }, {
+                'featureType': 'water',
+                'stylers': [{
+                    'color': '#5dc7ff'
+                }]
+            }];
+        }
+    });
+</script>

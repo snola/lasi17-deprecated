@@ -1,0 +1,123 @@
+[{
+    "date": "2016-06-27",
+    "dateReadable": "Monday, 27 June",
+    "tracks": [{
+        "title": "LASI - main track"
+        }, {
+        "title": "Summer School"
+    }],
+    "timeslots": [{
+        "startTime": "08:30",
+        "endTime": "08:30-09:00",
+        "sessions": [
+            [1001]
+        ]
+    }, {
+            "startTime": "09:00",
+            "endTime": "09:00-10:00",
+            "sessions": [
+                [101]
+            ]
+        }, {
+            "startTime": "10:00",
+            "endTime": "10:00-11:30",
+            "sessions": [
+                [102],
+                [103]
+            ]
+        }, {
+            "startTime": "11:30",
+            "endTime": "11:30-12:00",
+            "sessions": [
+                [1002]
+            ]
+        }, {
+            "startTime": "12:00",
+            "endTime": "12:00-14:00",
+            "sessions": [
+                [],
+                [104]
+            ]
+        }, {
+            "startTime": "14:00",
+            "endTime": "14:00-15:00",
+            "sessions": [
+                [1003]
+            ]
+        }, {
+            "startTime": "15:00",
+            "endTime": "15:00-16:30",
+            "sessions": [
+                [105],
+                [106]
+            ]
+        }, {
+            "startTime": "16:30",
+            "endTime": "16:30-18:30",
+            "sessions": [
+                [1004]
+            ]
+        }, {
+            "startTime": "19:00",
+            "endTime": "19:00-20:00",
+            "sessions": [
+                [1005]
+            ]
+        }
+        ]
+},
+    {
+        "date": "2016-06-28",
+        "dateReadable": "Tuesday, 28 June",
+        "tracks": [{
+            "title": "LASI - main track"
+        }, {
+            "title": "Summer School"
+        }],
+        "timeslots": [{
+            "startTime": "09:00",
+            "endTime": "09:00-10:30",
+            "sessions": [
+                [107],
+                [108]
+            ]
+        }, {
+            "startTime": "10:30",
+            "endTime": "10:30-11:30",
+            "sessions": [
+                [109]
+            ]
+        }, {
+            "startTime": "11:30",
+            "endTime": "11:30-12:00",
+            "sessions": [
+                [1006]
+            ]
+        }, {
+            "startTime": "12:00",
+            "endTime": "12:00-13:00",
+            "sessions": [
+                [110]
+            ]
+        }, {
+            "startTime": "13:00",
+            "endTime": "13:00-14:00",
+            "sessions": [
+                [1007]
+            ]
+        }, {
+            "startTime": "14:00",
+            "endTime": "14:00-15:30",
+            "sessions": [
+                [112],
+                [111]
+            ]
+        }, {
+            "startTime": "15:30",
+            "endTime": "15:30-17:00",
+            "sessions": [
+                [113]
+            ]
+        }
+        ]
+    }]

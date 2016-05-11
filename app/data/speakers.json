@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "name": "Rebecca Ferguson",
+    "title": "Lecturer",
+    "company": "The Open University",
+    "country": "United Kingdom",
+    "photoUrl": "../../images/people/rebeccaferguson.jpg",
+    "bio": "",
+    "tags": ["Keynote", "Workshop"],
+    "socials": [{
+        "name": "Google Scholar",
+        "link": "https://scholar.google.com/citations?user=lfxvlmwAAAAJ&hl=en"
+    }]
+}, {
+    "id": 2,
+    "name": "Cristobal Romero",
+    "title": "Associate Professor",
+    "company": "University of Cordoba",
+    "country": "Spain",
+    "photoUrl": "../../images/people/cristobalromero.jpg",
+    "bio": "",
+    "tags": ["Keynote", "Workshop"],
+    "socials": [{
+        "name": "Google Scholar",
+        "link": "https://scholar.google.com/citations?user=vLlwz_4AAAAJ&hl=en"
+    }]
+}, {
+    "id": 3,
+    "name": "Pedro J. Muñoz Merino",
+    "title": "Visiting Professor",
+    "company": "Universidad Carlos III de Madrid",
+    "country": "Spain",
+    "photoUrl": "../../images/people/pedrojmunozmerino.jpg",
+    "bio": "",
+    "tags": ["Workshop", "Experience"],
+    "socials": [{
+        "name": "Google Scholar",
+        "link": "https://scholar.google.es/citations?user=c-VhX_EAAAAJ&hl=en"
+    }]
+}
+]

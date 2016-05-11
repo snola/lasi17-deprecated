@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Host",
+        "logos": [{
+        "name": "University of Deusto",
+            "url": "http://www.deusto.es",
+            "logoUrl": "../images/partners/deusto.png"
+
+        }]
+    }, {
+        "title": "Sponsors",
+        "logos": [{
+        "name": "Spanish Network of Learning Analytics (SNOLA)",
+            "url": "http://snola.es",
+            "logoUrl": "../images/partners/SNOLA.png"
+
+        },{
+            "name": "Society of Learning Analytics Research (SOLAR)",
+            "url": "http://solaresearch.org/",
+            "logoUrl": "../images/partners/solar-logo.png"
+
+        }]
+    }, {
+        "title": "Partners",
+        "logos": [{
+            "name": "Grupo GRIAL, Universidad de Salamanca",
+            "url": "http://grial.usal.es/",
+            "logoUrl": "../images/partners/grial_negro.png"
+        }, {
+            "name": "DeustoTech Learning",
+            "url": "http://dtlearning.deusto.es/",
+            "logoUrl": "../images/partners/deustotech-learning.jpg"
+        }, {
+            "name": "Grupo de Robótica – Universidad de León",
+            "url": "http://robotica.unileon.es/",
+            "logoUrl": "../images/partners/robotica-ULE.png"
+        }, {
+            "name": "Grupo GaLan. UPV-EHU",
+            "url": "",
+            "logoUrl": "../images/partners/galan.gif"
+        }, {
+            "name": "Grupo de Tecnologías de la Información para la Gestión Empresarial (TIGE-UPM)",
+            "url": "http://tige.ior.etsit.upm.es/",
+            "logoUrl": "../images/partners/TIGE.png"
+        }, {
+            "name": "GSIC-EMIC (Grupo de Sistemas Inteligentes y Cooperativos – Educación, Medios, Informática y Cultura)",
+            "url": "http://gsic.uva.es/",
+            "logoUrl": "../images/partners/logo-gsic.jpg"
+        }, {
+            "name": "Gradient – Universidad Carlos III de Madrid",
+            "url": "http://gradient.it.uc3m.es/",
+            "logoUrl": "../images/partners/Gradient_UC3M.png"
+        }]
+    }
+]

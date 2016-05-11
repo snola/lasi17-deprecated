@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1001,
+    "title": "Opening and welcome",
+    "description": ""
+  },
+  {
+    "id": 1002,
+    "title": "Discussion-break",
+    "description": ""
+  },
+  {
+    "id": 1003,
+    "title": "Lunch",
+    "description": ""
+  },
+  {
+    "id": 1004,
+    "title": "Spanish Network of Learning Analytics (SNOLA) meeting",
+    "description": ""
+  },
+  {
+    "id": 1005,
+    "title": "Bilboats 1 hour boat trip",
+    "description": ""
+  },
+  {
+    "id": 1006,
+    "title": "Discussion-break",
+    "description": ""
+  },
+  {
+    "id": 1007,
+    "title": "Lunch",
+    "description": ""
+  },
+  {
+    "id": 101,
+    "title": "Keynote “Educational Data Science”",
+    "description": "Currently, there is an increasing interest in applying the fashion term Data Science (DS) to different domains. In fact, the specific application of DS in the Education field is known as Educational Data Science (EDS), which works with data gathered from educational environments/settings for solving educational problems. There are several communities associated with EDS that can be viewed as related sub-communities: Learning Analytics (LA)/Educational Data Mining (EDM), Learner Analytics/Personalization and Educational Recommender Systems (ERS), Academic/Institutional Analytics (AA), and  Systemic/Instructional Improvement, also known as Data Driven Decision Making in Education (DDDME). This presentation introduces the new and widely used term Educational Data Science. It presents its basic definitions, the process and actors, the main goals and tasks, and the main publications and resources in order to introduce this topic to different type of stakeholders.",
+    "speakers": [2],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Educational Data Science",
+      "Keynote"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Experiences I",
+    "description": "",
+    "speakers": [],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags":[
+    "Experiences"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Workshop I ”Educational data analysis using R”",
+    "description": "",
+    "speakers": [3],
+    "language": "es",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Educational Data Analysis",
+      "R"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Workshop II “Using Weka on Data from Moodle”",
+    "description": "",
+    "speakers": [2],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Weka",
+      "EDM",
+      "Moodle"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Experiences II",
+    "description": "",
+    "speakers": [],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+    "Experiences"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Workshop III",
+    "description": "",
+    "speakers": [],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+    "Workshop"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Experiences III",
+    "description": "",
+    "speakers": [],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+    "Experiences"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Workshop IV",
+    "description": "",
+    "speakers": [],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+    "Workshop"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Keynote “Learning analytics: Visions of the Future”",
+    "description": "What does the future hold for learning analytics? In terms of Europe’s priorities for learning and training, they will need to support relevant and high-quality knowledge, skills and competences developed throughout lifelong learning. More specifically, they should improve the quality and efficiency of education and training, enhance creativity and innovation, and focus on learning outcomes in areas such as employability, active-citizenship and well-being. This is a tall order and, in order to achieve it, we need to consider how our work fits into the larger picture. Drawing on the outcomes of two recent European studies, Rebecca will discuss how we can avoid potential pitfalls and develop an action plan that will drive the development of analytics that enhance both learning and teaching.",
+    "speakers": [1],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Learning Analytics",
+      "Keynote"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Workshop V “Ethics and Privacy issues in LA”",
+    "description": "",
+    "speakers": [1],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+      "Learning Analytics",
+      "Ethics and Privacy"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Workshop VI",
+    "description": "",
+    "speakers": [],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+    "Workshop"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Industrial track",
+    "description": "",
+    "speakers": [],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+    "Industrial presentations"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Workshop VII",
+    "description": "",
+    "speakers": [],
+    "language": "en",
+    "complexity": "Medium",
+    "presentation": "",
+    "video": "",
+    "tags": [
+    "Workshop"
+    ]
+  }
+]
