@@ -9,17 +9,17 @@ h1, h2, h3, h4 {
     font-weight: 200;
 }
 paper-button.colorful {
-    color: #03A9F4;
+    color: #3BA5BD;
 }
 paper-button.white {
     color: #fff;
 }
 paper-button[raised].colorful {
-    background: #03A9F4;
+    background: #3BA5BD;
     color: #FFFFFF;
 }
 a, .anchor-like {
-    color: #03A9F4;
+    color: #3BA5BD;
     text-decoration: none;
 }
 strong, b {
