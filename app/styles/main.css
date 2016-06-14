@@ -206,6 +206,12 @@ strong, b {
     .two-column-xs {
         flex: 1;
     }
+    .four-column-md {
+        flex: 1;
+    }
+    .four-column-lg {
+        flex: 1;
+    }
     .vertical-horizontal {
         flex-direction: row;
     }
@@ -290,6 +296,9 @@ strong, b {
     }
 }
 @media (min-width: 961px) and (max-width: 1280px) {
+    .four-column-md {
+        width: 25%;
+    }
     .visible-md {
         display: block !important;
     }
@@ -319,6 +328,9 @@ strong, b {
     }
 }
 @media (min-width: 1281px) {
+    .four-column-lg {
+        width: 25%;
+    }
     .visible-lg {
         display: block !important;
     }
