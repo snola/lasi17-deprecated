@@ -202,7 +202,7 @@ gulp.task('precache', function (callback) {
 gulp.task('gh-pages', function() {
   return gulp.src('./dist/**/*')
     .pipe(ghPages({
-      remoteUrl: 'https://github.com/GDGSalamanca/design-tech2015'
+      remoteUrl: 'https://github.com/snola/lasi16'
     }));
 });
 
