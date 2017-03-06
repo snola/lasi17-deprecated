@@ -1,0 +1,24 @@
+Learning Analytics Summer Institute Spain 2017 (LASI Spain 17)
+
+### Description
+
+Learning Analytics (LA) is a research area that brings together experts in very diverse subjects (educational technology, artificial intelligence, education, data mining or psychology, etc.) with managers, administrators, politicians and companies related to formal and > informal education. Making the most of the increasing amount of data students and teachers leave when they interact with learning technologies is one of its main goals. However, LA has also created high expectations about the possibility of adapting the student learning path, developing recommendation systems, personalized learning and formative assessment. In summary, there is an interesting debate about the impact of LA in education.
+<br/>
+Sponsored by the Society for Learning Analytics Research (SoLAR), the Learning Analytics Summer Institutes (LASI) have become established in the last two years as an awareness-raising, capacity-building, international network of events, where researchers and practitioners can meet to share their work, and envision the future. A number of activities are organized around the world in association to this conference. The “LASI Spain 2016” International workshop is organized by the University of Deusto (UD) with the collaboration of SNOLA (Spanish Network of Learning Analytics) on June 27th to 28th at the campus of Bilbao.
+<br/>
+Registration: Attending LASI Spain 2016 is free, but It is required to fill the registration form.
+The call for proposals of the Summer Institute is detailed in http://snola.es/2017/03/06/lasi-2017-call-for-papers/<br/>
+
+
+### Program
+
+Checkout it in http://lasi17.snola.es/#!/schedule
+
+#### Registration
+
+Please fill the following form to register for attending to LASI Spain 17 https://docs.google.com/forms/d/1MSDZtSa3rviOpqb7l21s5GLv9txjCdyMUMVCJEadqmU/viewform
+
+
+#### Location
+
+LASI Spain 2017 will be held at the Universidad Carlos III de Madrid - Campus Puerta de Toledo, in Madrid, Spain. Ronda de Toledo 5, 28005 Madrid.
