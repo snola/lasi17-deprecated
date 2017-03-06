@@ -1,13 +1,13 @@
 [{
-    "date": "2016-06-27",
-    "dateReadable": "Monday, 27 June",
+    "date": "2017-07-03",
+    "dateReadable": "Monday, July 3",
     "tracks": [{
         "title": "LASI - main track"
         }, {
         "title": "Summer School"
     }],
     "timeslots": [{
-        "startTime": "08:30",
+        "startTime": "08:40",
         "endTime": "08:30-09:00",
         "sessions": [
             [1001]
@@ -66,8 +66,8 @@
         ]
 },
     {
-        "date": "2016-06-28",
-        "dateReadable": "Tuesday, 28 June",
+        "date": "2017-07-04",
+        "dateReadable": "Tuesday, July 4",
         "tracks": [{
             "title": "LASI - main track"
         }, {
