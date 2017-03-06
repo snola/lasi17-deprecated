@@ -7,8 +7,8 @@
         "title": "Summer School"
     }],
     "timeslots": [{
-        "startTime": "08:30",
-        "endTime": "08:30-09:00",
+        "startTime": "08:31",
+        "endTime": "08:31-09:00",
         "sessions": [
             [1001]
         ]
