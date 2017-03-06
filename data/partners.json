@@ -2,19 +2,23 @@
     {
         "title": "Host",
         "logos": [{
-        "name": "University of Deusto",
-            "url": "http://www.deusto.es",
-            "logoUrl": "../images/partners/deusto.jpg"
+        "name": "Universidad Carlos III de Madrid",
+            "url": "http://www.uc3m.es",
+            "logoUrl": "../images/partners/uc3m.jpg"
 
         }]
     },{
         "title": "Co-organizers",
         "logos": [{
-        "name": "University of the Basque Country",
-            "url": "http://www.ehu.eus/",
-            "logoUrl": "../images/partners/upv-ehu.png"
+        "name": "Universidad Nacional de Educación a Distancia",
+            "url": "http://www.uned.es/",
+            "logoUrl": "../images/partners/UNED.jpg"
 
-        }]
+		},{
+		"name": "Universidad Politécnica de Madrid",
+			"url": "http://www.upm.es",
+			"logoUrl": "../images/partners/upm.png"
+		}]
     }, {
         "title": "Sponsors",
         "logos": [{
@@ -33,9 +37,9 @@
             "logoUrl": "../images/partners/solar-logo.png"
 
         },{
-            "name": "Capítulo Español de la Sociedad de Educación del IEEE",
-            "url": "http://www.ieec.uned.es/es/",
-            "logoUrl": "../images/partners/cesei.png"
+            "name": "eMadrid",
+            "url": "http://www.emadridnet.org",
+            "logoUrl": "../images/partners/emadrid.png"
 
         }]
     }, {
