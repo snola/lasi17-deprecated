@@ -1,6 +1,5 @@
 LASI Spain 17: Call for papers
 
-
 Learning analytics has become increasingly present in educational settings. Whenever information technologies are used for educational purposes, there is a trail of evidences of the activities and behaviors of both teachers and instructors. Over time, the analysis of these evidences, be it real-time data or data stored in system databases, may help better understand and improve educational processes.
 
 Learning analytics covers a wide variety of analysis techniques over multiple-sourced data (content repositories, interactive systems, multimedia streams) and technologies (Learning Management Systems, educational games, virtual settings, mobile devices) that ranging from data mining to data visualizations, and focuses on very different aspects of learning: at-risk detection, improvement of drop-out rates and academic outcomes, enabling adaptive learning, etc.
@@ -9,7 +8,7 @@ The fifth edition of the Learning Analytics Summer Institute Spain 2017 (LASI Sp
 
 The Call for Papers of LASI Spain 17 invites researchers across the globe to submit original research and work in progress that further contributes to advances in the field. LASI Spain 17 welcomes both quantitative and qualitative work related to the topics of interest within the broad theme of “Advances in Learning Analytics”, and aims to cross interdisciplinary boundaries that help expanding our understanding of current and future trends in learning analytics.
 
-###Topics
+Topics
 
 LASI Spain 17 aims to address state-of-the-art advances in learning analytics, and to gather multidisciplinary but complementary approaches from different fields, such as Computer Science, Data Science, Mathematics, Education, Sociology and Psychology. This Call for Papers is open for submissions covering the following topics:
 
@@ -27,7 +26,13 @@ LASI Spain 17 aims to address state-of-the-art advances in learning analytics, a
 * Integration of learning analytics and instructional methods.
 * Learning analytics in personal learning environments (PLEs)
 
-###Types of contributions
+Dates
 
-Please, send your original manuscript (short paper: 6-8 pages; full paper: 10-15 pages) using a Springer template (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) by April 15 2017 (deadline will not be extended) using the EasyChair system.
+* Submission date:				April 15 2017
+* Notification of acceptance: 	May 1 2017
+* Camera-ready papers:			May 10 2017
 
+Formats
+* Short papers: 6-8 pages.
+* Full papers: 12-15 pages.
+* Submissions must strictly follow Springer Conference Proceedings guidelines for contributions (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
