@@ -98,7 +98,7 @@
                                                 <div><a href="http://lasi.solaresearch.org/lasi-locals/" target="_blank"> <img class="logo" src="images/LASI-Local-banner-750.png" alt="LASI Local banner"></a></div>
                                             </div>
                                             <p class="dates bold">3-5 July 2017</p>
-                                            <p class="description">LASI Spain 2017 is organized by Universidad Carlos III de Madrid (U3CM), Universidad Nacional de Educación a Distancia (UNED) and Universidad Politécnica de Madrid (UPM) with the collaboration of SNOLA (Spanish Network of Learning Analytics) and eMadrid on July 3-5 at UC3M Puerta de Toledo Campus.</p>
+                                            <p class="description">LASI Spain 2017 is organized by Universidad Carlos III de Madrid (UC3M), Universidad Nacional de Educación a Distancia (UNED) and Universidad Politécnica de Madrid (UPM) with the collaboration of SNOLA (Spanish Network of Learning Analytics) and eMadrid on July 3-5 at UC3M Puerta de Toledo Campus.</p>
                                             <p class="slogan">Learning Analytics Summer Institute Spain 2017</p>
                                             <div class="links layout horizontal align-pb-block">
                                                 <!-- <a href="http://goo.gl/forms/kymZwijWFy" target="_blank">
@@ -140,6 +140,9 @@
                             <logos-block logos-blocks="{{partners}}">
                                 <h4 class="heading">Partners</h4>
                             </logos-block>
+							<committee-block>
+							    <h4 class="heading">Committee</h4>
+							</committee-block>
                             <footer-block></footer-block>
                         </section>
 
@@ -177,6 +180,18 @@
                                 </div>
                             </hero-block>
                             <people-block id="people-block" class="container-atop" speakers="{{speakers}}" sessions="{{sessions}}"></people-block>
+                            <footer-block></footer-block>
+                        </section>
+						<section data-route="committee">
+                            <hero-block class="section-shadow container-before-atop" style="background: #3BA5BD; color: #fff;">
+                                <div class="top-section">
+                                    <div class="title-wrapper layout horizontal">
+                                        <h3 class="self-end">Committees</h3>
+                                    </div>
+                                    <!-- <paper-fab class="section-fab-right" icon="social:share"></paper-fab> -->
+                                </div>
+                            </hero-block>
+                            <committee-block id="committee-block" class="container-atop" committee-members="{{committee-members}}" affiliation="{{affiliation}}"></committee-block>
                             <footer-block></footer-block>
                         </section>
                         <!--
