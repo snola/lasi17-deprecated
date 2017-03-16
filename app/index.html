@@ -77,6 +77,7 @@
                 </paper-toolbar>
                 <paper-menu class="list" attr-for-selected="data-route" selected="{{route}}" on-iron-select="onMenuSelect">
                     <a data-route="#!/home" href="/">Main</a>
+					<!-- <a data-route="#!/blog" href="#!/blog/call-for-papers">Call for papers</a> -->
                     <a data-route="#!/blog" href="/blog">Blog</a>
                     <a data-route="#!/schedule" href="/schedule">Schedule</a>
                     <a data-route="#!/speakers" href="/speakers">Speakers</a>
@@ -145,17 +146,29 @@
 							<!-- </committee-block> -->
                             <footer-block></footer-block>
                         </section>
-
-                        <section data-route="blog">
+						
+                        <!-- <section data-route="blog"> -->
+                            <!-- <hero-block class="section-shadow container-before-atop" style="background: #3BA5BD; color: #fff;"> -->
+                                <!-- <div class="top-section"> -->
+                                    <!-- <div class="title-wrapper layout horizontal"> -->
+                                        <!-- <h3 class="self-end">Blog</h3> -->
+                                    <!-- </div> -->
+                                   
+                                <!-- </div> -->
+                            <!-- </hero-block> -->
+                            <!-- <blog-block id="blog" class="container-atop-md" posts="{{posts}}"></blog-block> -->
+                            <!-- <footer-block></footer-block> -->
+                        <!-- </section> -->
+						<section data-route="cfp">
                             <hero-block class="section-shadow container-before-atop" style="background: #3BA5BD; color: #fff;">
                                 <div class="top-section">
                                     <div class="title-wrapper layout horizontal">
-                                        <h3 class="self-end">Blog</h3>
+                                        <h3 class="self-end">Call for papers</h3>
                                     </div>
                                      <!--<paper-fab class="section-fab-right" icon="social:share"></paper-fab>-->
                                 </div>
                             </hero-block>
-                            <blog-block id="blog" class="container-atop-md" posts="{{posts}}"></blog-block>
+                            <cfp-block id="cfp-block" class="container-atop-md" posts="{{posts}}"></cfp-block>
                             <footer-block></footer-block>
                         </section>
                         <section data-route="schedule">
@@ -193,7 +206,7 @@
                             <!-- </hero-block> -->
                             <!-- <committee-block id="committee-block" class="container-atop" committee-members="{{committee-members}}" affiliation="{{affiliation}}"></committee-block> -->
                             <!-- <footer-block></footer-block> -->
-                        </section>
+                        <!-- </section> -->
                         <!--
                         <section data-route="code-of-conduct">
                             <hero-block class="section-shadow container-before-atop" style="background: #455A64; color: #fff;">
