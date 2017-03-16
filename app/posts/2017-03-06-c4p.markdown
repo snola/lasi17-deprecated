@@ -32,11 +32,14 @@ Dates
 * Notification of acceptance: 	May 1 2017
 * Camera-ready papers:			May 10 2017
 
-Formats
+
+Manuscript submission instructions
+
+* All manuscripts must be submitted through the Easychair system (https://easychair.org/conferences/?conf=lasispain17).
+* Submissions must strictly follow Springer Conference Proceedings guidelines for contributions (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Manuscripts submitted for review should not include any information that could reveal the identity of the author(s).
+
+Types of submission
+
 * Short papers: 6-8 pages.
 * Full papers: 12-15 pages.
-* Submissions must strictly follow Springer Conference Proceedings guidelines for contributions (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 
-Instructions for submissions
-
-All manuscripts must be submitted through the Easychair system (https://easychair.org/conferences/?conf=lasispain17).
