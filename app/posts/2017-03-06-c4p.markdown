@@ -36,3 +36,7 @@ Formats
 * Short papers: 6-8 pages.
 * Full papers: 12-15 pages.
 * Submissions must strictly follow Springer Conference Proceedings guidelines for contributions (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+
+Instructions for submissions
+
+All manuscripts must be submitted through the Easychair system (https://easychair.org/conferences/?conf=lasispain17).
