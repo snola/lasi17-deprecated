@@ -31007,9 +31007,9 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
                            </a>
                        </paper-tab>
                        <paper-tab class="text-u-c" link="">
-                            <a data-route="blog" href="#!/blog" class="nav-link horizontal center-center layout">
-                                Blog
-                            </a>
+                            <!-- <a data-route="blog" href="#!/blog/call-for-papers" class="nav-link horizontal center-center layout"> -->
+                                <!-- Call for papers -->
+                            <!-- </a> -->
                         </paper-tab>
                         <paper-tab class="text-u-c" link="">
                             <a data-route="schedule" href="#!/schedule" class="nav-link horizontal center-center layout">
@@ -32583,7 +32583,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             text: {
                 type: String,
                 observer: '_textChanged',
-                value: 'Tweet about your experience in the LASI Spain 2016'
+                value: 'Tweet about your experience in LASI Spain 2017'
             },
             when: {
                 type: Date
@@ -32624,7 +32624,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         <div class="container relative layout vertical-horizontal">
             <iron-ajax auto="" url="[[source]]" handle-as="json" on-response="feedLoaded"></iron-ajax>
             <div class="flex-5">
-                <h4 class="heading">Tweets using <a href="https://www.google.com/#q=%23LASI17Spain">#LASI17Spain</a></h4>
+                <h4 class="heading">Tweets using <a href="https://www.google.com/#q=%23LASISpain17">#LASISpain17</a></h4>
                 <social-post id="post" author="{{author}}" text="{{text}}" when="{{when}}" canonicalurl="https://twitter.com/" sign="@"></social-post>
             </div>
             <span class="flex"></span>
